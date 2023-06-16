@@ -5,7 +5,8 @@ Attached files:
 3) Sign Language Recognition System.zip (With Latex attachments)
 4) Sign predictor.py & Sign Detector.py
 5) best_model_dataflair3.h5 (Saved Model)
-6) Test,Train and Validate in "Dataset.7z"(Datasets)
+
+Dataset taken from kaggle
 
 For GUI (Real time Prediction):
 A file of format .h5 is being attached
